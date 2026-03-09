@@ -3,6 +3,9 @@ Power BI dashboard project built using BlinkIT Grocery Data with data modeling, 
 ## Project Overview
 This project is a retail analytics dashboard created in Power BI using the BlinkIT Grocery Data dataset.  
 The dashboard helps analyze sales performance, item characteristics, outlet details, rating trends, and outlet distribution.
+
+![image alt](https://github.com/Evanjalinjoseph/blinkit-powerbi-dashboard/blob/acba98941bb9b0a390bcb02762fd7bcbc14e855b/Blinkit%20dashboard%20image.png)
+
 ## Dashboard Features
 - Total Sales KPI
 - Total Item Weight KPI
@@ -49,7 +52,4 @@ This design improves filtering, reporting performance, and DAX calculation accur
 ```DAX
 Total Sales = SUM('BlinkIT Grocery Data'[Sales])
 
-
-
-![image alt](https://github.com/Evanjalinjoseph/blinkit-powerbi-dashboard/blob/acba98941bb9b0a390bcb02762fd7bcbc14e855b/Blinkit%20dashboard%20image.png)
 
