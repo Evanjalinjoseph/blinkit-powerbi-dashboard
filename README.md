@@ -49,5 +49,7 @@ This design improves filtering, reporting performance, and DAX calculation accur
 ```DAX
 Total Sales = SUM('BlinkIT Grocery Data'[Sales])
 
+![image alt](https://github.com/Evanjalinjoseph/blinkit-powerbi-dashboard/blob/acba98941bb9b0a390bcb02762fd7bcbc14e855b/Blinkit%20dashboard%20image.png)
+
 
 
