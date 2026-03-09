@@ -49,6 +49,5 @@ This design improves filtering, reporting performance, and DAX calculation accur
 ```DAX
 Total Sales = SUM('BlinkIT Grocery Data'[Sales])
 
-## Dashboard Image
-<img src="Blinkit dashboard Image.png" width="1194">
+
 
